@@ -1,6 +1,6 @@
-# 🔊 Text to Speech Converter
+# Text to Speech Converter
 
-## 📖 Project Description
+## Project Description
 
 Text to Speech Converter is a web-based application developed using HTML, CSS, and JavaScript that converts written text into spoken audio using the Web Speech API. The application allows users to enter text, select their preferred voice or language, and customize speech settings such as rate and pitch to enhance the listening experience.
 
@@ -16,7 +16,7 @@ Text to Speech Converter is a web-based application developed using HTML, CSS, a
 * Simple, responsive, and user-friendly interface
 * Real-time speech status updates
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -43,7 +43,7 @@ Text-to-Speech-Converter/
 5. Use the **Pause/Resume** button to control playback.
 6. Click the **Stop** button to end speech output.
 
-## 🌐 Supported Languages
+## Supported Languages
 
 The application supports multiple browser-provided voices, including:
 
@@ -61,7 +61,7 @@ The application supports multiple browser-provided voices, including:
 
 *Note: Available voices may vary depending on the browser and operating system.*
 
-## 🎛️ Speech Controls
+## Speech Controls
 
 ### Rate Control
 
@@ -81,7 +81,7 @@ Adjusts the tone of the generated voice.
 * 1.5 → High Pitch
 * 2.0 → Very High Pitch
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -91,7 +91,7 @@ Through this project, I gained practical experience in:
 * Building responsive user interfaces
 * Managing dynamic content using JavaScript
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Download speech as an audio file
 * Volume control option
@@ -99,11 +99,10 @@ Through this project, I gained practical experience in:
 * Speech history management
 * Text file upload functionality
 
-## 👩‍💻 Author
+## Author
 
 **Samatha**
 B.Tech – Information Technology
 
-## 📄 License
+## URL : https://text-to-speech-taupe-kappa.vercel.app/
 
-This project is developed for educational and learning purposes.
