@@ -4,6 +4,10 @@
 
 Text to Speech Converter is a web-based application developed using HTML, CSS, and JavaScript that converts written text into spoken audio using the Web Speech API. The application allows users to enter text, select their preferred voice or language, and customize speech settings such as rate and pitch to enhance the listening experience.
 
+## Webiste
+
+URL : https://text-to-speech-taupe-kappa.vercel.app/
+
 ## ✨ Features
 
 * Convert text into speech instantly
@@ -99,10 +103,5 @@ Through this project, I gained practical experience in:
 * Speech history management
 * Text file upload functionality
 
-## Author
 
-**Samatha**
-B.Tech – Information Technology
-
-## URL : https://text-to-speech-taupe-kappa.vercel.app/
 
